@@ -31,7 +31,7 @@ Proc19 : Model calibration process on both site and global scales. If you have i
 
 Proc23_GlobMLAIx : The core code of our PVPM, it can directly simulate the seasonal maximum LAI on a global scale, including Function ParamAlpha and Budyko2LAI.
 
-Proc51_SLAI15DE1 : The core code of our PVPM, it can directly simulate the global steady-state LAI.
+Proc51_SLAI15DE1 : The core code of our PVPM, it can directly simulate the global steady-state LAI, including Function SGPD2SLAI.
 
 Proc52_TLAI15DE1 : The core code of our PVPM, it can directly predict actual LAI time series by seasonal maximum LAI limiting steady-state LAI, including Function ParamSGPD and SLAI2TLAI.
 
