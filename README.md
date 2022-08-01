@@ -17,8 +17,8 @@ ParamAlphaFlx : The parameters of our PVPM for multi-biome at the site scale, an
 ParamSGPD : The parameters of our previous semi-prognostic model. 
 Rest functions used to support other data processing code.
 
-·Code File:
-GDAL00~Proc12, Proc21~Proc22, Proc 26~Proc33 : Data pre-processes of meteological input data, MODIS validate data and two CIMP6 models.
+·Code File: 
+Data pre-processes of meteological input data(GDAL00~Proc12), MODIS validate data (Proc21~Proc22)and two CIMP6 models (Proc26~Proc33).
 Proc13~Proc16: Data processes of meterological data and MODIS data used to calibrate model parameters.
 Proc17~Proc18 : Randomly choosing 36,000 pixels (4000 pixels randomly per PFT) used to calibrate our PVPM.
 Proc19 : Model calibration process on both site and global scales. If you have input data with different spatial resolution, you can re-calibrate parameters by this code. 
