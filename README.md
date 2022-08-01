@@ -18,7 +18,7 @@ ParamSGPD : The parameters of our previous semi-prognostic model.
 Rest functions used to support other data processing code.
 
 ·Code File: 
-Data pre-processes of meteological input data(GDAL00~Proc12), MODIS validate data (Proc21~Proc22)and two CIMP6 models (Proc26~Proc33).
+GDAL00 to Proc12: Data pre-processes of meteological input data;Proc21 to Proc22: MODIS validate data; Proc26~Proc33: two CIMP6 models.
 Proc13~Proc16: Data processes of meterological data and MODIS data used to calibrate model parameters.
 Proc17~Proc18 : Randomly choosing 36,000 pixels (4000 pixels randomly per PFT) used to calibrate our PVPM.
 Proc19 : Model calibration process on both site and global scales. If you have input data with different spatial resolution, you can re-calibrate parameters by this code. 
