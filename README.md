@@ -1,10 +1,10 @@
 # PVPM-Pheno
 the model code
+Our model is runned under Linux envirornment in MATLAB software. Windows may work after Proc12.
 
 
-A prognostic model to predict seasonal maximum and dynamics of global leaf area index using climate variables
 
-# Our model is runned under Linux envirornment in MATLAB software. Windows may work after Proc12.
+# A prognostic model to predict seasonal maximum and dynamics of global leaf area index using climate variables
 
 # Function file：
 Budyko2LAI : The core function of our PVPM, it discribes equations for simulating the annual sum LAI. 
