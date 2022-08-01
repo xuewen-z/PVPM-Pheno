@@ -18,7 +18,6 @@ ParamSGPD : The parameters of our previous semi-prognostic model.
 Rest functions used to support other data processing code.
 
 # Code File:
-
 GDAL00~Proc12, Proc21~Proc22, Proc 26~Proc33 : Data pre-processes of meteological input data, MODIS validate data and two CIMP6 models.
 Proc13~Proc16: Data processes of meterological data and MODIS data used to calibrate model parameters.
 Proc17~Proc18 : Randomly choosing 36,000 pixels (4000 pixels randomly per PFT) used to calibrate our PVPM.
@@ -34,10 +33,9 @@ Proc50_FlBdko2LAI : Predicting actual LAI time series.
 The rest codes are data analysis processes of this experiment.
 
 # Demo File: Taking 2008 as a exmple, meterological data in 2008 as model input data.
-
 input file : Landcover data; Elvation data; Meterological data      
 code file :  Proc23_GlobMLAIx :  it can directly simulate the seasonal maximum LAI.
-            Proc51_SLAI15DE1 and Proc52_TLAI15DE1：it can directly predict LAI time series.
+             Proc51_SLAI15DE1 and Proc52_TLAI15DE1：it can directly predict LAI time series.
 output file : Simulate results. 
 
 We directly provide the modelling results of Proc51 owing daily Meterological dataset on a global scale is too much to upload, if you need that, please contact with authors.
