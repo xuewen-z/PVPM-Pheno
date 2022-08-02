@@ -53,4 +53,4 @@ The rest codes are data analysis processes of this experiment.
 
 - __output file:__ output the seasonal maximum LAI andLAI time series results. 
 
-We directly provide the modelling results of Proc51 owing daily Meterological dataset on a global scale is too much to upload, if you need that, please contact with authors.
+Owing daily Meterological dataset on a global scale is too much to upload, if you need that, please contact with authors.
