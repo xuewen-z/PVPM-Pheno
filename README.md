@@ -11,7 +11,7 @@ Our model is runned under Linux envirornment in MATLAB software. Windows may wor
 
 - __Met2IGSI:__ The core function of our PVPM, it discribes equations for simulating GSI.
 
-- __ParamAlpha:__ The global parameters of our PVPM for multi-biome.  You can re-calibrate the parameters according to different input data or researches using Code 19.
+- __ParamAlpha:__ The global parameters of our PVPM for multi-biome.  You can re-calibrate the parameters according to different input data or researches using Code Proc19_CaliAlpha.
 
 - __ParamAlphaFlx:__ The parameters of our PVPM for multi-biome at the site scale, and the parameterization process can be found in Code Proc19_CaliAlphaUniq. 
 
