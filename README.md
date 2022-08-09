@@ -1,4 +1,4 @@
-# A prognostic model to predict seasonal maximum and dynamics of global leaf area index using climate variables
+# A prognostic vegetation phenology model to predict seasonal maximum and dynamics of global leaf area index using climate variables
 Our model is runned under Linux envirornment in MATLAB software. Windows may work after Proc12.
 
  ## Function file：
